@@ -10,8 +10,8 @@ font-family: "Roboto", sans-serif;
 
 body{
  display: grid;
- grid-template-columns: 240px, 1fr;
- grid-template-rows: 56px, 1fr;
+ grid-template-columns: 240px 1fr;
+ grid-template-rows: 56px 1fr;
  grid-template-areas: 
  'header header'
  'sidebar container';
